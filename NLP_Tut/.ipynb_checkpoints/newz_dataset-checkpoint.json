@@ -1,0 +1,25 @@
+{
+    "news": [
+      {
+        "index": 1,
+        "text": "Global Summit on Climate Change Concludes",
+        "category": "Politics"
+      },
+      {
+        "index": 2,
+        "text": "Local Team Wins Championship Final",
+        "category": "Sports"
+      },
+      {
+        "index": 3,
+        "text": "Breakthrough in AI Technology Announced",
+        "category": "Technology"
+      },
+      {
+        "index": 4,
+        "text": "New Study Links Diet to Heart Health",
+        "category": "Health"
+      }
+    ]
+  }
+  

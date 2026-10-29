@@ -1,0 +1,22 @@
+[
+  { "index": 1, "text": "Global Summit on Climate Change Concludes", "category": "Politics" },
+  { "index": 2, "text": "Local Team Wins Championship Final", "category": "Sports" },
+  { "index": 3, "text": "Breakthrough in AI Technology Announced", "category": "Technology" },
+  { "index": 4, "text": "New Study Links Diet to Heart Health", "category": "Health" },
+  { "index": 5, "text": "Government Introduces New Economic Policy", "category": "Politics" },
+  { "index": 6, "text": "National Soccer Team Qualifies for World Cup", "category": "Sports" },
+  { "index": 7, "text": "Scientists Develop Quantum Computing Milestone", "category": "Technology" },
+  { "index": 8, "text": "Breakthrough Drug Shows Promise for Cancer Treatment", "category": "Health" },
+  { "index": 9, "text": "Presidential Debate Draws Record Viewership", "category": "Politics" },
+  { "index": 10, "text": "Basketball League Finals Set for Next Week", "category": "Sports" },
+  { "index": 11, "text": "Tech Giants Unveil Latest AI Innovations", "category": "Technology" },
+  { "index": 12, "text": "Research Highlights Benefits of Meditation on Mental Health", "category": "Health" },
+  { "index": 13, "text": "New Environmental Law Aims to Reduce Carbon Emissions", "category": "Politics" },
+  { "index": 14, "text": "National Cricket Team Defeats Rivals in Stunning Victory", "category": "Sports" },
+  { "index": 15, "text": "AI-Powered Assistants to Revolutionize Workspaces", "category": "Technology" },
+  { "index": 16, "text": "Health Experts Warn About Rising Obesity Rates", "category": "Health" },
+  { "index": 17, "text": "Senate Approves Landmark Cybersecurity Bill", "category": "Politics" },
+  { "index": 18, "text": "Olympic Games Preparations Enter Final Stage", "category": "Sports" },
+  { "index": 19, "text": "Self-Driving Cars Gain Approval for Public Roads", "category": "Technology" },
+  { "index": 20, "text": "New Study Links Sleep Patterns to Heart Disease Risk", "category": "Health" }
+]
